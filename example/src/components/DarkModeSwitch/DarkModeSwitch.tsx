@@ -5,7 +5,7 @@ import {
   Switch,
   SwitchButton,
   useTheme,
-} from 'react-neu'
+} from 'beluga-neu'
 
 const DarkModeSwitch: React.FC = () => {
   const {

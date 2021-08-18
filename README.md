@@ -2,7 +2,7 @@
 
 > Neumorphic component library
 
-[![NPM](https://img.shields.io/npm/v/react-neu.svg)](https://www.npmjs.com/package/beluga-neu) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/beluga-neu.svg)](https://www.npmjs.com/package/beluga-neu) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 

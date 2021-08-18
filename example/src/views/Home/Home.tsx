@@ -9,7 +9,7 @@ import {
   CardTitle,
   Container,
   Surface,
-} from 'react-neu'
+} from 'beluga-neu'
 
 import MyModal from './components/MyModal'
 

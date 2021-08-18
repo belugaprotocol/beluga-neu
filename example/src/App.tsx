@@ -4,7 +4,7 @@ import {
   Box,
   createTheme,
   ThemeProvider,
-} from 'react-neu'
+} from 'beluga-neu'
 
 import DarkModeSwitch from './components/DarkModeSwitch'
 

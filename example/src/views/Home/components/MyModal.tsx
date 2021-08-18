@@ -7,7 +7,7 @@ import {
   ModalContent,
   ModalProps,
   ModalTitle,
-} from 'react-neu'
+} from 'beluga-neu'
 
 const MyModal: React.FC<ModalProps> = ({
   isOpen,
