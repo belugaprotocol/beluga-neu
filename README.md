@@ -1,13 +1,13 @@
-# react-neu
+# beluga-neu
 
 > Neumorphic component library
 
-[![NPM](https://img.shields.io/npm/v/react-neu.svg)](https://www.npmjs.com/package/react-neu) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-neu.svg)](https://www.npmjs.com/package/beluga-neu) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save react-neu
+npm install --save beluga-neu
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save react-neu
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-neu'
-import 'react-neu/dist/index.css'
+import MyComponent from 'beluga-neu'
+import 'beluga-neu/dist/index.css'
 
 class Example extends Component {
   render() {
