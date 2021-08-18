@@ -23,7 +23,7 @@ const StyledModalTitle = styled.div`
   font-size: 24px;
   font-weight: 700;
   justify-content: center;
-  margin-bottom: ${props => props.theme.spacing[4]}px;
+  margin-bottom: 24px;
 `
 
 export default ModalTitle

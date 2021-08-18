@@ -72,7 +72,7 @@ const StyledResponsiveWrapper = styled.div`
     top: 100%;
     right: 0;
     left: 0;
-    max-height: calc(100% - ${props => props.theme.spacing[4]}px);
+    max-height: calc(100% - 24px);
     animation: ${mobileKeyframes} .3s forwards ease-out;
   }
 `

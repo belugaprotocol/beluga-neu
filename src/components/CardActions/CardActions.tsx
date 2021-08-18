@@ -23,7 +23,7 @@ const StyledCardActions = styled.div`
   align-items: center;
   display: flex;
   margin: 0;
-  margin: ${props => props.theme.spacing[4]}px;
+  margin: 24px;
 `
 
 const StyledCardAction = styled.div`

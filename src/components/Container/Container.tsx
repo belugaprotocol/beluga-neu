@@ -35,7 +35,7 @@ const StyledContainer = styled.div<StyledContainerProps>`
   box-sizing: border-box;
   margin: 0 auto;
   max-width: ${props => props.width}px;
-  padding: 0 ${props => props.theme.spacing[4]}px;
+  padding: 0 24px;
   width: 100%;
 `
 

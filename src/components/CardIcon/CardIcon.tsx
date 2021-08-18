@@ -14,7 +14,7 @@ const StyledCardIcon = styled.div`
   display: flex;
   font-size: 48px;
   justify-content: center;
-  margin: ${props => props.theme.spacing[4]}px auto;
+  margin: 24px auto;
 `
 
 export default CardIcon

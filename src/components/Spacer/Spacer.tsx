@@ -18,7 +18,7 @@ const Spacer: React.FC<SpacerProps> = ({ size = 'md' }) => {
       break
     case 'md':
     default:
-      s = spacing[4]
+      s = 24
   }
   
   return (

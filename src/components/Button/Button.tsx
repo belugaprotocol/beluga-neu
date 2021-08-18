@@ -51,14 +51,14 @@ const Button: React.FC<ButtonProps> = ({
       break
     case 'lg':
       boxShadow =  `${surfaces[2].shadow}, ${surfaces[2].highlight}`
-      buttonPadding = spacing[4]
+      buttonPadding = 24
       buttonSize = buttonSizes.lg
       fontSize = 18
       break
     case 'md':
     default:
       boxShadow =  `${surfaces[2].shadow}, ${surfaces[2].highlight}`
-      buttonPadding = spacing[4]
+      buttonPadding = 24
       buttonSize = buttonSizes.md
       fontSize = 16
   }
@@ -177,8 +177,8 @@ const StyledExternalLink = styled.a`
   flex: 1;
   height: 100%;
   justify-content: center;
-  margin: 0 ${props => -props.theme.spacing[4]}px;
-  padding: 0 ${props => props.theme.spacing[4]}px;
+  margin: 0 24px;
+  padding: 0 24px;
   text-decoration: none;
 `
 
@@ -189,8 +189,8 @@ const StyledLink = styled(Link)`
   flex: 1;
   height: 100%;
   justify-content: center;
-  margin: 0 ${props => -props.theme.spacing[4]}px;
-  padding: 0 ${props => props.theme.spacing[4]}px;
+  margin: 0 24px;
+  padding: 0 24px;
   text-decoration: none;
 `
 
